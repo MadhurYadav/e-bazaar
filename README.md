@@ -1,2 +1,2 @@
 
-Vercel Link - https://e-cart-madhur-yadavs-projects.vercel.app/
+Vercel Link - https://e-bazaar-madhur-yadavs-projects.vercel.app/
